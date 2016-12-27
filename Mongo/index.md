@@ -1,4 +1,4 @@
 ## Mongo Import
 ```
-mongorestore -d croncluster /dir
+mongorestore -d database_name /dir
 ```
